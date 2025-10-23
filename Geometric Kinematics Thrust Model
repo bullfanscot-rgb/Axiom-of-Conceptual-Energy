@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# --- 1. Geometric Constants (Fixed System Parameters) ---
+# --- 1. Geometric Constants (Fixed System Parameters) Author: [Scot Michael Osborn] 2025---
 V_MAX = 3.0e8
 M_0 = 1.0     # Rest Mass (kg)
 
